@@ -1,0 +1,13 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB compiled files
+*.mex*
+
+# MATLAB data files
+*.mat
+
+# Simulink models and autosaves
+*.mdl
+*.slx
+*.autosave
